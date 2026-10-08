@@ -1,0 +1,152 @@
+$ python todo.py
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 2
+
+--- To-Do List ---
+No tasks yet.
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 1
+
+Enter the task description: Buy groceries
+Success: Task 'Buy groceries' added successfully!
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 1
+
+Enter the task description: Read Python documentation
+Success: Task 'Read Python documentation' added successfully!
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 1
+
+Enter the task description: Submit weekly project
+Success: Task 'Submit weekly project' added successfully!
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 2
+
+--- To-Do List ---
+1. Buy groceries
+2. Read Python documentation
+3. Submit weekly project
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 3
+
+--- To-Do List ---
+1. Buy groceries
+2. Read Python documentation
+3. Submit weekly project
+
+Enter the task number to update: 2
+Enter the new task description: Read Python documentation for 30 minutes
+Success: Task 2 updated from 'Read Python documentation' to 'Read Python documentation for 30 minutes'.
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 4
+
+--- To-Do List ---
+1. Buy groceries
+2. Read Python documentation for 30 minutes
+3. Submit weekly project
+
+Enter the task number to remove: 1
+Success: Task 'Buy groceries' removed successfully!
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 2
+
+--- To-Do List ---
+1. Read Python documentation for 30 minutes
+2. Submit weekly project
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 9
+Error: Invalid menu choice. Please enter a number between 1 and 5.
+
+=============================
+      TO-DO LIST MENU        
+=============================
+1. Add a task
+2. View all tasks
+3. Update a task
+4. Remove a task
+5. Exit
+=============================
+Enter your choice (1-5): 5
+
+Goodbye! Have a productive day.
